@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+My first personal GitHub repository
 
 Hi Humans!
 
